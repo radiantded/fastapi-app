@@ -2,7 +2,7 @@ import os
 
 from fastapi.responses import JSONResponse
 
-from app import fapp
+from apps import fapp
 from config import WORK_DIR
 
 
