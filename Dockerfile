@@ -1,8 +1,8 @@
-FROM python:3.9
+FROM python:3.9-slim
 
-COPY . /fapp
+COPY . /app
 
-WORKDIR /fapp
+WORKDIR /app
 
 EXPOSE 8000
 

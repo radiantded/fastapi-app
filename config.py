@@ -1,1 +1,1 @@
-WORK_DIR = ''
+WORK_DIR = '/d'
